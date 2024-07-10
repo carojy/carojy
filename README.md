@@ -10,7 +10,8 @@
 <!-- ==> images de technos -->
 
 ## 💌 Contacte moi
-🔗 
+🕸
+
 🖥  
 🦉 
  
