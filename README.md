@@ -17,4 +17,6 @@ Après avoir été Chargé de site E-commerce où j'ai notamment développé mon
 🖥  https://carocirier.fr/
 
 🦉 cirier.c@gmail.com
+
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com)
  
