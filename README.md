@@ -10,8 +10,7 @@
 <!-- ==> images de technos -->
 
 ## 💌 Contacte moi
-🕸
-
-🖥  
-🦉 
+🕸 www.linkedin.com/in/caroline-cirier/
+🖥  carocirier.fr/
+🦉 cirier.c@gmail.com
  
