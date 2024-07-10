@@ -32,7 +32,7 @@ Après avoir été Chargée de site E-commerce où j'ai notamment développé mo
 
 🖥  <a href="https://carocirier.fr/">Mon portfolio</a>
 
-🕸 <a href="https://carocirier.fr/](https://www.linkedin.com/in/caroline-cirier/">Linkedin</a>
+🕸 <a href="https://www.linkedin.com/in/caroline-cirier/">Linkedin</a>
 
 🦉 <a href="mailto:cirier.c@gmail.com">À l'ancienne</a>
 
