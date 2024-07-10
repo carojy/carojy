@@ -1,12 +1,16 @@
 # Hello, moi c'est Caro ☀
 
-A propos de ✨ moi ✨ 
+<!-- ==> Bannière de présentation -->
+
+## 🔭 À propos
 
 
+## 🚀 Technos et outils
 
-## 🔭 D'où je viens 
+<!-- ==> images de technos -->
 
-## 🚀 Ce que je fais
-
-## 💬 Contactez-moi
+## 💌 Contacte moi
+Linkedin : 
+Portfolio : 
+Pigeon : 
  
