@@ -22,8 +22,7 @@ Après avoir été Chargé de site E-commerce où j'ai notamment développé mon
 
 ## 💌 Contacte moi
 
-🖥  https://carocirier.fr/
-<a src="https://carocirier.fr/">Mon portfolio</a>
+🖥  <a href="https://carocirier.fr/">Mon portfolios</a>
 
 🕸 www.linkedin.com/in/caroline-cirier/
 
