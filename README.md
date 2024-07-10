@@ -8,7 +8,8 @@ Après avoir été Chargé de site E-commerce où j'ai notamment développé mon
 ## 🚀 Technos et outils
 
 <!-- ==> images de technos -->
-https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)}" />
+
 
 
 ## 💌 Contacte moi
