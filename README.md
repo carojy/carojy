@@ -3,7 +3,7 @@
 <!-- ==> Bannière de présentation -->
 
 ## 🔭 À propos
-
+Après avoir été Chargé de site E-commerce où j'ai notamment développé mon expertise en SEO et SEA, j'ai ressenti le besoin de m'orienter vers la partie immergée du web : la programmation. J'ai donc entamé une reconversion afin de devenir Développeuse Fullstack et recherche une alternance pour octobre 2024.
 
 ## 🚀 Technos et outils
 
