@@ -10,7 +10,7 @@
 <!-- ==> images de technos -->
 
 ## 💌 Contacte moi
-Linkedin : 
-Portfolio : 
-Pigeon : 
+🔗 
+🖥  
+🦉 
  
