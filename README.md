@@ -4,7 +4,7 @@
 <br>
 
 ## 🔭 À propos
-Après avoir été Chargée de site E-commerce où j'ai notamment développé mon expertise en acquisition (SEO/SEA) et conversion, j'ai ressenti le besoin de m'orienter vers la partie immergée du web : la programmation. J'ai donc entamé une reconversion afin de devenir Développeuse Fullstack et recherche une alternance pour octobre 2024.
+Après avoir été Chargée de site E-commerce où j'ai notamment développé mon expertise en acquisition (SEO/SEA) et conversion, j'ai ressenti le besoin de m'orienter vers la partie immergée du web : la programmation. Me voilà en formation pour devenir Développeuse Fullstack + je recherche une alternance pour octobre 2024.
 
 
 
