@@ -2,8 +2,10 @@
 
 <!-- ==> Bannière de présentation -->
 
+
 ## 🔭 À propos
 Après avoir été Chargée de site E-commerce où j'ai notamment développé mon expertise en acquisition (SEO/SEA) et conversion, j'ai ressenti le besoin de m'orienter vers la partie immergée du web : la programmation. J'ai donc entamé une reconversion afin de devenir Développeuse Fullstack et recherche une alternance pour octobre 2024.
+
 
 ## 🚀 Technos et outils
 
@@ -18,6 +20,7 @@ Après avoir été Chargée de site E-commerce où j'ai notamment développé mo
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
+
 
 
 ## 💌 Contacte moi
