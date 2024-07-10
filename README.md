@@ -6,7 +6,7 @@
 Après avoir été Chargé de site E-commerce où j'ai notamment développé mon expertise en acquisition (SEO/SEA), j'ai ressenti le besoin de m'orienter vers la partie immergée du web : la programmation. J'ai donc entamé une reconversion afin de devenir Développeuse Fullstack et recherche une alternance pour octobre 2024.
 
 ## 🚀 Technos et outils
-![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
+[![forthebadge](https://forthebadge.com/images/featured/featured-powered-by-electricity.svg)](https://forthebadge.com)
 <!-- ==> images de technos -->
 
 
