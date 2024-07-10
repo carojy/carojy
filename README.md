@@ -21,14 +21,10 @@ Après avoir été Chargé de site E-commerce où j'ai notamment développé mon
 
 
 ## 💌 Contacte moi
-🕸 www.linkedin.com/in/caroline-cirier/
 
 🖥  https://carocirier.fr/
-
+🕸 www.linkedin.com/in/caroline-cirier/
 🦉 cirier.c@gmail.com
 
 
-
-
-[![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com)
  
